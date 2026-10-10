@@ -1,0 +1,68 @@
+[
+  {
+    "id": "alert_drw_2101032846_T03_0",
+    "poId": "2101032846_T03",
+    "poNo": "2101032846/T03",
+    "type": "compliance_issue",
+    "title": "Drawing Verification: ETL1_00_007",
+    "message": "Item #00010 (PALIN TEFLON BUSH ,ETL1_00_007 ,00 ,NA ,) requires drawing approval sign-off (ETL1_00_007) with requisitioner Rajat Kumar Khatri.",
+    "severity": "medium",
+    "date": "2026-08-21",
+    "read": false
+  },
+  {
+    "id": "alert_drw_2101031888_A01_1",
+    "poId": "2101031888_A01",
+    "poNo": "2101031888/A01",
+    "type": "compliance_issue",
+    "title": "Drawing Verification: PMSC/SHLD/23/32KW/010",
+    "message": "Item #00010 (NO SPECIAL FEATURES ,BEARING END COVER ,) requires drawing approval sign-off (PMSC/SHLD/23/32KW/010) with requisitioner Sneha Bagchi.",
+    "severity": "medium",
+    "date": "2026-08-18",
+    "read": false
+  },
+  {
+    "id": "alert_drw_2101027608_A01_2",
+    "poId": "2101027608_A01",
+    "poNo": "2101027608/A01",
+    "type": "compliance_issue",
+    "title": "Drawing Verification: PSMC/END-C/ROT-M-9.7KW/07",
+    "message": "Item #00010 (END SHIELD NDE SIDE FOR ROT ,PSMC/END-C/) requires drawing approval sign-off (PSMC/END-C/ROT-M-9.7KW/07) with requisitioner Sneha Bagchi.",
+    "severity": "medium",
+    "date": "2026-07-31",
+    "read": false
+  },
+  {
+    "id": "alert_drw_2101027314_A01_4",
+    "poId": "2101027314_A01",
+    "poNo": "2101027314/A01",
+    "type": "compliance_issue",
+    "title": "Drawing Verification: PSMC/EXTN/MGNS/06",
+    "message": "Item #00010 (EXTENSION ROD ,PSMC/EXTN/MGNS/06 ,0 ,ALL) requires drawing approval sign-off (PSMC/EXTN/MGNS/06) with requisitioner Sneha Bagchi.",
+    "severity": "medium",
+    "date": "2026-07-30",
+    "read": false
+  },
+  {
+    "id": "alert_drw_2101025397_001_7",
+    "poId": "2101025397_001",
+    "poNo": "2101025397/001",
+    "type": "compliance_issue",
+    "title": "Drawing Verification: PSMC/GRND/BRSH/014",
+    "message": "Item #00010 (CRBN BRS;MG5X ,PRECISION SPARES MFG CO) requires drawing approval sign-off (PSMC/GRND/BRSH/014) with requisitioner Dipti Chaturvedi.",
+    "severity": "medium",
+    "date": "2026-07-22",
+    "read": false
+  },
+  {
+    "id": "alert_drw_2101023849_A01_9",
+    "poId": "2101023849_A01",
+    "poNo": "2101023849/A01",
+    "type": "compliance_issue",
+    "title": "Drawing Verification: 26050003",
+    "message": "Item #00010 (DRIVEN ROLL ,26050003 ,1 ,09 ,MINEX META) requires drawing approval sign-off (26050003) with requisitioner Sneha Bagchi.",
+    "severity": "medium",
+    "date": "2026-07-16",
+    "read": false
+  }
+]
